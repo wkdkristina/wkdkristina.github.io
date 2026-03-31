@@ -1,31 +1,29 @@
+[Home](index.md) | [Technical](technical.md) | [Data](data-analytics.md) | [Strategy](strategy.md) | [Case Studies](case-studies.md) | [Contact](contact.md)
+---
 # Kristina Lichtenwald
 ## Technical SEO Strategist | Data Analyst | Efficiency Architect
 
-> "I don't just rank pages; I architect high-velocity search ecosystems."
+I build search ecosystems that bridge the gap between raw data and revenue. My zero waste philosophy ensures every technical audit and content brief is anchored in measurable ROI.
 
 ---
 
-### 🛠️ The Technical Stack
-* **Languages:** Python (Pandas/BeautifulSoup), SQL, HTML/CSS, JavaScript (Apps Script)
-* **Automation:** OpenAI API Integration, Custom Brief Generation, SERP Scraping
-* **Analytics:** GA4 Multi-Touch Attribution, Looker Studio, GSC Data Modeling
-* **Platforms:** WordPress, Shopify, GitHub, Screaming Frog, Ahrefs
+### Explore My Portfolio by Pillar
+Select a specialization below to see my methodology, tools, and results:
+
+* [**Technical SEO & Site Health**](technical.md)  
+    *Core Web Vitals, Schema Architecture, and Indexation Management.*
+* [**Data Intelligence & Analytics**](data-analytics.md)  
+    *GA4 Attribution, Python/Pandas automation, and KPI Dashboards.*
+* [**Content & Growth Strategy**](content-strategy.md)  
+    *Topical Authority, AI-Driven Discovery (GeO), and Lead Generation.*
 
 ---
 
-### 🚀 Featured Technical Projects
+### All Case Studies
+[**View the full library of 9 Case Studies indexed by impact**](case-studies.md)
 
-#### [Project 1: The SEO Brief Factory (Python + GPT-4)](link-to-your-repo)
-Automated the competitive gap analysis process by scraping top-3 SERP results and identifying semantic "Information Gaps." 
-**Result:** 90% reduction in manual research time for agency workflows.
-
-#### [Project 2: Pandas-Driven Content Decay Analysis](link-to-your-repo)
-A custom script that merges GSC click data with Ahrefs backlink data to prioritize "Striking Distance" keywords (Positions 11-20).
-**Result:** Identified $15k/mo in "hidden" revenue opportunities for a B2B client.
+[Contact & Wrap Up](contact.md)
 
 ---
 
-### 📈 Let's Connect
-* [LinkedIn](your-link)
-* [Main Portfolio (Framer/Google Sites)](your-link)
-* [Contact Me](mailto:your-email)
+Where technical precision meets organic growth.
