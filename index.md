@@ -37,7 +37,7 @@ Select a specialization below to see my methodology, tools, and results:
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/portfolio-architecture.png" 
-       alt="Visualization of Hub and Spoke site architecture for 9 technical case studies" 
+       alt="Visualization of Hub and Spoke site architecture for 9 case studies" 
        loading="lazy" 
        style="width: 100%; max-width: 700px; border-radius: 12px; border: 1px solid #E2E8F0; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
   <p style="font-size: 0.85rem; color: #64748B; margin-top: 12px; font-style: italic;">
