@@ -39,7 +39,7 @@ Select a specialization below to see my methodology, tools, and results:
   <img src="/assets/images/portfolio-architecture.png" 
        alt="Visualization of Hub and Spoke site architecture for 9 case studies" 
        loading="lazy" 
-       style="width: 50%; max-width: 700px; border-radius: 12px; border: 1px solid #E2E8F0; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+       style="width: 35%; max-width: 700px; border-radius: 12px; border: 1px solid #E2E8F0; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
   <p style="font-size: 0.85rem; color: #64748B; margin-top: 12px; font-style: italic;">
     Fig 1: Strategic Information Architecture — Mapping the 9 Case Study Pillars
   </p>
