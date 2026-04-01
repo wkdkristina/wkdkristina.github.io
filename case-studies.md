@@ -3,7 +3,18 @@ layout: default
 title: Case Studies
 ---
 <h1>Case Studies</h1>
-<p>Strategic Simulations & Data Proofs of Concepts (PoCs)</p>
+<p><i><b>Strategic Simulations & Data Proofs of Concepts (PoCs)</b></i></p>
+
+<p>The following projects represent Technical Proofs of Concept (PoCs) designed to demonstrate high-level SEO architecture, Python-driven automation, and advanced data modeling.</p>
+
+<p>While the brand names and specific datasets are simulated to protect proprietary methodologies, each scenario is built on <b>real-world logic, live SERP data, and enterprise-level growth frameworks.</b> They serve as a sandbox for testing zero-waste efficiency before deployment in live production environments.</p>
+
+---
+
+### What These Studies Demonstrate:
+* **The "Engine" Mentality:** Moving from manual tasks to scalable, automated workflows.
+* **Forensic Analytics:** Using SQL and Python to find revenue "leaks" that standard tools miss.
+* **Agency-Ready Execution:** Translating complex technical audits into stakeholder-ready ROI.
 
 <h2>Technical SEO & Infrastructure</h2>
 
@@ -17,7 +28,7 @@ title: Case Studies
 <div class="case-study-card">
   <h3>"Precision Site Migration Architecture"</h3>
   <p><b>The Problem:</b> A brand undergoing a major structural overhaul needed to migrate their high authority legacy blog from a  subdomain to a subfolder to consolidate domain power. With over 2,000 articles and a decade of backlink equity at stake, any error in the redirect mapping would result in a permanent loss of organic visibility and revenue.</p>
-  <p><b>The Tech:</b> 1:1 Redirect Mapping, Python (Link Checker), Screaming Frog (List Mode), Server-side Validation (.htaccess/nginx).</p>
+  <p><b>The Tech:</b> 1:1 Redirect Mapping, Python (Link Checker), Screaming Frog/SEMrush (List Mode), Server-side Validation (.htaccess/nginx).</p>
   <a href="case-studies/crawl-recovery.html">View Simulation →</a>
 </div>
 
@@ -33,21 +44,21 @@ title: Case Studies
 <div class="case-study-card">
   <h3>"The Leak Detection: Conversion Funnel Audit"</h3>
   <p><b>The Problem:</b> A B2B landing page was receiving high quality organic traffic, but the “Free Trial” sign-up rate was stagnating at 0.5%. The marketing team suspected the copy was the issue, but the data suggested a deeper technical friction point.</p>
-  <p><b>The Tech:</b> </p>
+  <p><b>The Tech:</b> Google Analytics 4 (Exploration Pathing), Hotjar Heatmapping, Browser/Device Segmentation, Event Tracking (GTM), Form Analysis.</p>
   <a href="case-studies/leak-detection.html">View Data Logic →</a>
 </div>
 
 <div class="case-study-card">
   <h3>"Multi-Touch Attribution Modeling"</h3>
   <p><b>The Problem:</b> A SaaS company was over investing in paid search because it appeared to be the primary driver of leads. However, the last-click model was ignoring the role of organic content in the early research phases of the 6-month sales cycle.</p>
-  <p><b>The Tech:</b> </p>
+  <p><b>The Tech:</b> GA4 Data-Driven Attribution (DDA), BigQuery Export, Looker Studio Model Comparison, First-Click vs. Linear Model Analysis.</p>
   <a href="case-studies/attribution.html">View Data Logic →</a>
 </div>
 
 <div class="case-study-card">
   <h3>"SQL-Powered Content Decay Dashboard"</h3>
   <p><b>The Problem:</b> A large scale blog with 500+ articles was losing 10% of its total traffic month-over-month, but the team couldn’t identify which specific posts were failing until it was too late.</p>
-  <p><b>The Tech:</b> </p>
+  <p><b>The Tech:</b> SQL (BigQuery), Python (Pandas for Data Cleaning), Search Console API, Automated "Striking Distance" Alerts, Content Lifecycle Mapping.</p>
   <a href="case-studies/decay-dashboard.html">View Data Logic →</a>
 </div>
 
@@ -56,21 +67,21 @@ title: Case Studies
 <div class="case-study-card">
   <h3>"The Editorial Engine: Scalable Content Systems"</h3>
   <p><b>The Problem:</b> A fast-growing B2B startup was struggling with a bottleneck where 20+ articles were stuck in the “SEO Review” stage, delaying publication by weeks and stalling organic growth.</p>
-  <p><b>The Tech:</b> </p>
+  <p><b>The Tech:</b> Python (Automated Brief Generation), Airtable/Notion API (Workflow Automation), NLP-based Gap Analysis, Content Quality Scoring Models.</p>
   <a href="case-studies/editorial-engine.html">View Strategy →</a>
 </div>
 
 <div class="case-study-card">
   <h3>"The Competitive Conquest: Market Share Takeover"</h3>
   <p><b>The Problem:</b> A legacy brand was losing market share to “Cloud Native” competitors who were winning the educational search space. The brand had the authority but lacked the topical depth.</p>
-  <p><b>The Tech:</b> </p>
-  <a href="case-studies/ompetitive-conquest.html">View Strategy →</a>
+  <p><b>The Tech:</b> Topical Mapping, Entity Gap Analysis (Python-driven), Content Clustering, TF-IDF / Natural Language API Analysis, Competitor "Share of Voice" Modeling.</p>
+  <a href="case-studies/competitive-conquest.html">View Strategy →</a>
 </div>
 
 <div class="case-study-card">
   <h3>"Agency & Stakeholder Management"</h3>
   <p><b>The Problem:</b> The company was over-paying an external agency for “low value” SEO tasks while internal technical debt continued to mount. Communication between the agency and the internal Dev team had completely broken down.</p> 
-  <p><b>The Tech:</b> </p>
+  <p><b>The Tech:</b> Jira/Asana Infrastructure, KPI Dashboarding (Looker Studio), Technical Debt Prioritization Framework (ICE Scoring), SEO-to-Dev Translation Documentation.</p>
   <a href="case-studies/stakeholder-management.html">View Strategy →</a>
 </div>
 
