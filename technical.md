@@ -23,7 +23,7 @@ title: Technical
     <div style="flex: 1; min-width: 250px; text-align: center;">
     <img src="/assets/images/matrix.webp" 
          alt="Visual of a matrix with a silhouette of a person" 
-         style="width: 100%; border-radius: 12px; border: 1px solid #E2E8F0; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
+         style="width: 40%; border-radius: 12px; border: 1px solid #E2E8F0; box-shadow: 0 4px 12px rgba(0,0,0,0.05);">
     </div>
 
 </div>
