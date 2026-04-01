@@ -1,6 +1,15 @@
 ---
 layout: default
 title: Technical
+<style type="text/css">
+.tg  {border:none;border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:12px 10px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
+  overflow:hidden;padding:12px 10px;word-break:normal;}
+.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
+.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
+</style>
 ---
 
 <h1>Technical SEO & Site Health</h1>
@@ -9,40 +18,39 @@ title: Technical
 
 <h2>Technical Capability Matrix</h2>
 
-<table><thead>
+<table class="tg"><thead>
   <tr>
-    <th>Core SEO Skills</th>
-    <th>SEO Suites</th>
-    <th>Web Foundations</th>
-    <th>Emerging Tech</th>
+    <th class="tg-mqa1">Core SEO Skills</th>
+    <th class="tg-mqa1">SEO Suites</th>
+    <th class="tg-mqa1">Web Foundations</th>
+    <th class="tg-mqa1">Emerging Tech</th>
   </tr></thead>
 <tbody>
   <tr>
-    <td>Technical Site Audits</td>
-    <td>SEMrush (Primary)</td>
-    <td>HTML/CSS (Basic)</td>
-    <td>Python for SEO</td>
+    <td class="tg-wp8o">Technical Site Audits</td>
+    <td class="tg-wp8o">SEMrush (Primary)</td>
+    <td class="tg-wp8o">HTML/CSS (Basic)</td>
+    <td class="tg-wp8o">Python for SEO</td>
   </tr>
   <tr>
-    <td>301 Redirect Mapping</td>
-    <td>Ahrefs</td>
-    <td>WordPress CMS</td>
-    <td>AI Visibility Trends</td>
+    <td class="tg-wp8o">301 Redirect Mapping</td>
+    <td class="tg-wp8o">Ahrefs</td>
+    <td class="tg-wp8o">WordPress CMS</td>
+    <td class="tg-wp8o">AI Visibility Trends</td>
   </tr>
   <tr>
-    <td>Indexation Management</td>
-    <td>Screaming Frog</td>
-    <td>Site Architecture</td>
-    <td>LLM Search Interaction</td>
+    <td class="tg-wp8o">Indexation Management</td>
+    <td class="tg-wp8o">Screaming Frog</td>
+    <td class="tg-wp8o">Site Architecture</td>
+    <td class="tg-wp8o">LLM Search Interaction</td>
   </tr>
   <tr>
-    <td>XML Sitemaps/Robots.txt</td>
-    <td>Google Search Console</td>
-    <td>Performance Optimization</td>
-    <td>Data Automation</td>
+    <td class="tg-wp8o">XML Sitemaps/Robots.txt</td>
+    <td class="tg-wp8o">Google Search Console</td>
+    <td class="tg-wp8o">Performance Optimization</td>
+    <td class="tg-wp8o">Data Automation</td>
   </tr>
-</tbody>
-</table>
+</tbody></table>
 
 <h2>Technical Pillar Deep-Dives</h2>
 <p><b>Infrastructure Auditing & Crawl Efficiency</b></p>
