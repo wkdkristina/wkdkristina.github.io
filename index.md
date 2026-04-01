@@ -3,7 +3,7 @@
 # Kristina Lichtenwald
 ## Technical SEO Strategist | Data Analyst | Efficiency Architect
 
-I build search ecosystems that bridge the gap between raw data and revenue. My zero waste philosophy ensures every technical audit and content brief is anchored in measurable ROI.
+I don't believe in "SEO secrets". I build search ecosystems that bridge the gap between raw data and revenue. My zero waste philosophy ensures every technical audit and content brief is anchored in measurable ROI. There's no secrets in the raw data.
 
 ---
 
