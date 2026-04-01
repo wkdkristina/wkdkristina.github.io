@@ -30,3 +30,10 @@ Implemented a global `Disallow` strategy within the robots.txt file to block sea
 Developed a logic based canonical tag framework to ensure that any filtered views that did get crawled would pass their link equity back to the root product page, preventing internal competition and duplicate content issues.
 * **Validation & Monitoring**
 Established a custom dashboard to monitor the indexation rate of new product launches. By reducing technical noise, we ensured that new inventory moved from "Discovered" to "Indexed" in an average of 3.2 days.
+
+<img src="/assets/images/custom-dashboard.webp" 
+     alt="Custom dashboard to monitor the indexation rate of new product launches" 
+     title="Technical SEO Performance: Indexation Management Framework" 
+     loading="lazy" 
+     width="800" 
+     style="display: block; margin: 0 auto; max-width: 100%;">
