@@ -2,14 +2,65 @@
 layout: default
 title: Technical
 ---
+.tech-matrix-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    margin: 30px 0;
+  }
 
+  .matrix-item {
+    background: #FFFFFF;
+    border: 1px solid #E28F0;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);
+    border-top: 4px solid #2563EB; /* The "SEO Blue" accent */
+  }
+
+  .matrix-item h4 {
+    margin: 0 0 10px 0;
+    color: #0F172A;
+    text-transform: uppercase;
+    font-size: 0.9rem;
+    letter-spacing: 1px;
+  }
+
+  .matrix-icon {
+    font-size: 2rem;
+    margin-bottom: 10px;
+    display: block;
+  }
 <h1>Technical SEO & Site Health</h1>
 
 <p>Search engines cannot rank what they cannot efficiently crawl and understand. My approach to technical SEO is rooted in my IT Specialist background, moving beyond surface-level checklists to address the underlying digital infrastructure. I treat a website as a complex ecosystem where site speed, crawl budget, and information architecture must be optimized to ensure seamless communication between the server and the search engine.</p>
 
 <h2>Technical Capability Matrix</h2>
 
-<p>I leverage a stack of enterprise-grade tools and foundational web technologies to ensure indexability and technical health.
+<p>I leverage a stack of enterprise-grade tools and foundational web technologies to ensure indexability and technical health.</p>
+
+<div class="tech-matrix-container">
+  
+  <div class="matrix-item">
+    <span class="matrix-icon">🔍</span>
+    <h4>Forensic Auditing</h4>
+    <p style="font-size: 0.85rem; color: #64748B;">Crawl Budget, Log Files, & Technical Debt</p>
+  </div>
+
+  <div class="matrix-item">
+    <span class="matrix-icon">🏗️</span>
+    <h4>Infrastructure</h4>
+    <p style="font-size: 0.85rem; color: #64748B;">Site Architecture, Migrations, & Render SEO</p>
+  </div>
+
+  <div class="matrix-item">
+    <span class="matrix-icon">🤖</span>
+    <h4>AI Readiness</h4>
+    <p style="font-size: 0.85rem; color: #64748B;">Schema, Entity Mapping, & GEO Strategy</p>
+  </div>
+
+</div>
 
 <h3>Core SEO Skills</h3>
 <p>Technical Site Audits | 301 Redirect Mapping | Indexation Management | XML Sitemaps | Robots.txt</p>
@@ -37,6 +88,7 @@ title: Technical
 <p>Site health is not a "one and done" kind of fix. It is a continuous standard of excellence. I utilize a data first approach to site hygiene, leveraging tools like SEMrush and Google Search Console to monitor Core Web Vitals, mobile usability, and security protocols. By setting up custom alerts and routine deep scans, we can identify and resolve technical debt - such as broken internal links, slow loading assets, and indexation errors - before they can negatively impact the site's visibility or authority.</p>
 
 ---
+
 <h2>The Automation Edge</h2>
 <p>I use Python to solve scale-related problems that manual auditing cannot touch. Below is a snippet of a redirect validator I use to ensure migration integrity.</p>
 
