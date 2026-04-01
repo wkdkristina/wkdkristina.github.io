@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Technical
 <style type="text/css">
 .tg  {border:none;border-collapse:collapse;border-spacing:0;margin:0px auto;}
 .tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
@@ -10,6 +8,8 @@ title: Technical
 .tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
 .tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
 </style>
+layout: default
+title: Technical
 ---
 
 <h1>Technical SEO & Site Health</h1>
