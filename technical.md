@@ -1,13 +1,4 @@
 ---
-<style type="text/css">
-.tg  {border:none;border-collapse:collapse;border-spacing:0;margin:0px auto;}
-.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
-  padding:12px 10px;word-break:normal;}
-.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
-  overflow:hidden;padding:12px 10px;word-break:normal;}
-.tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
-.tg .tg-mqa1{border-color:#000000;font-weight:bold;text-align:center;vertical-align:top}
-</style>
 layout: default
 title: Technical
 ---
@@ -18,39 +9,19 @@ title: Technical
 
 <h2>Technical Capability Matrix</h2>
 
-<table class="tg"><thead>
-  <tr>
-    <th class="tg-mqa1">Core SEO Skills</th>
-    <th class="tg-mqa1">SEO Suites</th>
-    <th class="tg-mqa1">Web Foundations</th>
-    <th class="tg-mqa1">Emerging Tech</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td class="tg-wp8o">Technical Site Audits</td>
-    <td class="tg-wp8o">SEMrush (Primary)</td>
-    <td class="tg-wp8o">HTML/CSS (Basic)</td>
-    <td class="tg-wp8o">Python for SEO</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">301 Redirect Mapping</td>
-    <td class="tg-wp8o">Ahrefs</td>
-    <td class="tg-wp8o">WordPress CMS</td>
-    <td class="tg-wp8o">AI Visibility Trends</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">Indexation Management</td>
-    <td class="tg-wp8o">Screaming Frog</td>
-    <td class="tg-wp8o">Site Architecture</td>
-    <td class="tg-wp8o">LLM Search Interaction</td>
-  </tr>
-  <tr>
-    <td class="tg-wp8o">XML Sitemaps/Robots.txt</td>
-    <td class="tg-wp8o">Google Search Console</td>
-    <td class="tg-wp8o">Performance Optimization</td>
-    <td class="tg-wp8o">Data Automation</td>
-  </tr>
-</tbody></table>
+<p>I leverage a stack of enterprise-grade tools and foundational web technologies to ensure indexability and technical health.
+
+<h3>Core SEO Skills</h3>
+<p>Technical Site Audits | 301 Redirect Mapping | Indexation Management | XML Sitemaps | Robots.txt</p>
+
+<h3>SEO Suites</h3>
+<p>SEMrush | Ahrefs | Screaming Frog | Google Search Console</p>
+
+<h3>Web Foundations</h3>
+<p>HTML/CSS | WordPress CMS | Site Architecture | Performance Optimization</p>
+
+<h3>Emerging Tech</h3>
+<p>Python for SEO | AI Visibility Trends | LLM Search Interaction | Data Automation</p>
 
 <h2>Technical Pillar Deep-Dives</h2>
 <p><b>Infrastructure Auditing & Crawl Efficiency</b></p>
@@ -64,3 +35,36 @@ title: Technical
 
 <p><b>Technical Hygiene & Proactive Monitoring</b></p>
 <p>Site health is not a "one and done" kind of fix. It is a continuous standard of excellence. I utilize a data first approach to site hygiene, leveraging tools like SEMrush and Google Search Console to monitor Core Web Vitals, mobile usability, and security protocols. By setting up custom alerts and routine deep scans, we can identify and resolve technical debt - such as broken internal links, slow loading assets, and indexation errors - before they can negatively impact the site's visibility or authority.</p>
+
+---
+<h2>The Automation Edge</h2>
+<p>I use Python to solve scale-related problems that manual auditing cannot touch. Below is a snippet of a redirect validator I use to ensure migration integrity.</p>
+
+<h3>Automated Redirect Validator</h3>
+
+```
+import requests
+
+def validate_migration(redirect_map):
+    for old, new in redirect_map.items():
+        try:
+            r = requests.get(new, allow_redirects=True, timeout=5)
+            status = "✅ 200 OK" if r.status_code == 200 else f"❌ {r.status_code}"
+            print(f"{status} | Path: {old} -> {r.url}")
+        except Exception as e:
+            print(f"⚠️ Error on {new}: {e}")
+```
+
+
+<h3>Example Mapping</h3>
+
+migration_data = {"https://old.com/blog": "https://new.com/blog/hub"}</br>
+validate_migration(migration_data)
+
+<h2>Technical Case Studies</h2>
+<p><a href="case-studies/crawl-budget.html">Crawl Budget & Indexation Recovery</a></p>
+<p><a href="case-studies/site-migration.html">Precision Site Migration Architecture</a></p>
+<p><a href="case-studies/geo-schema.html">GEO & Schema: Architecting for Answer Engines</a></p>
+
+
+
