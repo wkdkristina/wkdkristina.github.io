@@ -62,24 +62,30 @@
 
     hr { border: 0; height: 1px; background: #E2E8F0; margin: 2em 0; }
 
-    .nav-bar {
-        font-size: 0.85rem; 
-        text-transform: uppercase; 
-        letter-spacing: 1px; 
-        text-align: center;
-        margin-bottom: 40px;
-        padding: 10px 0;
-        border-bottom: 1px solid #E2E8F0;
-    }
+   <nav class="nav-bar">
+  <a href="/">Home</a>
+  <a href="/technical/">Technical</a>
+  <a href="/data-analytics/">Data Analytics</a>
+  <a href="/content-strategy/">Content Strategy</a>
   
-    .nav-bar a {
-        margin: 0 12px;
-        color: #64748b; 
-    }
-    
-    .nav-bar a:hover {
-        color: #2563EB; 
-    }
+  <div class="dropdown">
+    <a href="/case-studies/" class="dropbtn">Case Studies ▾</a>
+    <div class="dropdown-content">
+      <a href="/case-studies/">Overview</a>
+      <a href="/case-studies/technical/crawl-budget/">1. Crawl Budget</a>
+      <a href="/case-studies/technical/geo-schema/">2. GEO & Schema</a>
+      <a href="/case-studies/technical/site-migration/">3. Site Migration</a>
+      <a href="/case-studies/data-analytics/decay-dashboard/">4. Content Decay</a>
+      <a href="/case-studies/data-analytics/attribution/">5. Multi-Touch Attribution</a>
+      <a href="/case-studies/data-analytics/leak-detection/">6. The Leak Detection</a>
+      <a href="/case-studies/content-strategy/competitive-conquest/">7. Competitive Conquest</a>
+      <a href="/case-studies/content-strategy/editorial-engine/">8. Editorial Engine</a>
+      <a href="/case-studies/content-strategy/stakeholder-management/">9. Stakeholder Management</a>
+    </div>
+  </div>
+</nav>
+
+
   </style>
 </head>
 <body>
