@@ -23,7 +23,6 @@ A brand undergoing a major structural overhaul needed to migrate their high auth
 * **Keyword Stability:** Key rankings returned to pre-migration levels within 14 days.
 
 ## The Deep Dive
-## The Deep Dive
 * **Forensic URL Inventory**
 I began by scraping the legacy subdomains to categorize 2,400+ URLs by traffic volume and backlink authority, ensuring no "high-equity" assets were left behind.
 
