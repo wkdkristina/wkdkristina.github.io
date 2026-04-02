@@ -31,7 +31,7 @@ Developed a logic based canonical tag framework to ensure that any filtered view
 * **Validation & Monitoring**
 Established a custom dashboard to monitor the indexation rate of new product launches. By reducing technical noise, we ensured that new inventory moved from "Discovered" to "Indexed" in an average of 3.2 days.
 
-<img src="/assets/images/custom-dashboard.webp" 
+<img src="/assets/images/custom-dashboard.png" 
      alt="Custom dashboard to monitor the indexation rate of new product launches" 
      title="Technical SEO Performance: Indexation Management Framework" 
      loading="lazy" 
