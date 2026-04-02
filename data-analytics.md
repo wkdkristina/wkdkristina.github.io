@@ -9,7 +9,7 @@ title: Data
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 40px; margin: 40px 0;">
 
-  <div style="flex: 1; min-width: 280px; text-align: center;">
+  <div style="flex: 1; min-width: 300px; text-align: center;">
     <img src="/assets/images/infographic.webp" 
          alt="Conceptual Analytics Dashboard" 
          style="width: 150%; border-radius: 12px; border: 1px solid #E2E8F0; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
