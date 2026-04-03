@@ -58,7 +58,7 @@ style="width: 100%; height: auto; display: block; border-radius: 4px;">
 By moving from a reactive "intuition" model to a proactive "Engineered Pipeline," we reduced time spent on audits by nearly 90%, allowing the team to spend their energy on high-impact updates.
 
 <div style="max-width: 800px; margin: 20px auto; background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center;">
-<img src="/assets/images/decay-workflow.png"
+<img src="/assets/images/case-studies/decay-dashboard/decay-workflow.png"
 alt="Manual vs Engineered Workflow Comparison"
 style="width: 100%; height: auto; display: block; border-radius: 4px;">
 <p style="font-size: 0.75rem; color: #64748B; margin-top: 10px; font-style: italic;">
