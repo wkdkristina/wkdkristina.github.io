@@ -47,7 +47,7 @@ Every page is injected with custom JSON-LD service schema and optimized for Core
 By moving from a reactive, "patchy" process to an engineered workflow, we didn't just write more—we wrote better. Every article reached the index faster and ranked higher because the technical integrity was "baked in."
 
 <div style="max-width: 800px; margin: 20px auto; background-color: #FFFFFF; border: 1px solid #E2E8F0; border-radius: 12px; padding: 20px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); text-align: center;">
-<img src="/assets/images/editorial-workflow-metrics.png"
+<img src="/assets/images/case-studies/editorial-engine/editorial-workflow-metrics.png"
 alt="Comparison Table: Legacy Process vs Engineered Workflow"
 style="width: 100%; height: auto; display: block; border-radius: 4px;">
 <p style="font-size: 0.75rem; color: #64748B; margin-top: 10px; font-style: italic;">
