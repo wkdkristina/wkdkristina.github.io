@@ -19,7 +19,7 @@ title: Let's Connect
     <div class="contact-card">
       <div class="icon">🔗</div>
       <h3>Professional Network</h3>
-      <p>View my full career history, endorsements, and professional certifications.</p>
+      <p>View my career history, endorsements, and professional certifications.</p>
       <a href="https://www.linkedin.com/in/klichtenwald/" target="_blank" class="contact-btn">Connect on LinkedIn</a>
     </div>
     <div class="contact-card">
@@ -29,9 +29,9 @@ title: Let's Connect
       <a href="tel:5672647276" class="contact-btn">567.264.7276</a>
     </div>
   </div>
-
+</div>
   <footer class="contact-footer">
     <p>Currently based in <strong>Napoleon, Ohio</strong> | Open to Remote and Strategic Hybrid opportunities.</p>
-  </div>
-</div>
+  
+
 
