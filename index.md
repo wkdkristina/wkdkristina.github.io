@@ -33,7 +33,7 @@ Select a specialization below to see my methodology, tools, and results:
 * [**Content & Growth Strategy**](content-strategy.md)  
     *Topical Authority, AI-Driven Discovery (GeO), and Lead Generation.*
 
----
+--- 
 
 <div style="text-align: center; margin: 30px 0;">
   <img src="/assets/images/portfolio-architecture.png" 
