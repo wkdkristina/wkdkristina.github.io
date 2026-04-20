@@ -17,6 +17,14 @@ title: Case Studies
 * **Forensic Analytics:** Using SQL and Python to find revenue "leaks" that standard tools miss.
 * **Agency-Ready Execution:** Translating complex technical audits into stakeholder-ready ROI.
 
+<div class="download-container">
+   <p>Prefer to read offline?</p>
+   <a href="./assets/pdfs/all-case-studies.pdf" target="_blank" class="btn-view">View the full 33-page case study PDF</a></br>
+   <a href="./assets/pdfs/all-case-studies.pdf" download="Kristina_Lichtenwald_All_Case_Studies" class="btn-save">
+      <i class="fas fa-download"></i> Save for Offline
+   </a>
+</div>
+
 <h2>Technical SEO & Infrastructure</h2>
 
 <div class="case-study-card">
@@ -38,6 +46,14 @@ title: Case Studies
   <p><b>The Problem:</b> A B2B SaaS provider wanted to move beyond tradition blue ink rankings and secure “primary answer” status within AI-driven search environments (Google SGE, Gemini, and ChatGPT). The existing site lacked a machinereadable data layer, making it difficult for LLMs to accurately cite the brand’s specific services and expertise.</p>
   <p><b>The Tech:</b> JSON-LD Schema (Advanced Nesting), Entity Relationship Mapping, NPOV Content Structuring, Google Search Console (Rich Results Audit).</p>
   <a href="case-studies/technical/geo-schema.html">View Simulation →</a>
+</div>
+
+<div class="download-container">
+   <p>Prefer to read offline?</p>
+   <a href="./assets/pdfs/technical-case-studies.pdf" target="_blank" class="btn-view">View Technical Pillar PDF</a></br>
+   <a href="./assets/pdfs/technical-case-studies.pdf" download="Kristina_Lichtenwald_Technical_SEO_Pillar" class="btn-save">
+      <i class="fas fa-download"></i> Save for Offline
+   </a>
 </div>
 
 <div style="margin: 40px 0; padding: 20px; background-color: #F8FAFC; border-left: 4px solid #2563EB; border-radius: 4px;">
@@ -69,6 +85,14 @@ title: Case Studies
   <a href="case-studies/data-analytics/decay-dashboard.html">View Data Logic →</a>
 </div>
 
+<div class="download-container">
+   <p>Prefer to read offline?</p>
+   <a href="./assets/pdfs/data-analytics-case-studies.pdf" target="_blank" class="btn-view">View Data Analytics Pillar PDF</a></br>
+   <a href="./assets/pdfs/data-analytics-case-studies.pdf" download="Kristina_Lichtenwald_Data Analytics_SEO_Pillar" class="btn-save">
+      <i class="fas fa-download"></i> Save for Offline
+   </a>
+</div>
+
 <div style="margin: 40px 0; padding: 20px; background-color: #F8FAFC; border-left: 4px solid #2563EB; border-radius: 4px;">
   <p style="margin: 0; color: #1e293b; font-style: italic;">
     <strong>Did you know?</strong> According to industry benchmarks, over <strong>60% of enterprise content</strong> suffers from "Content Decay" within 12 months. My data-first approach uses Python to flag these traffic drops automatically, turning passive archives into active revenue drivers.
@@ -96,6 +120,14 @@ title: Case Studies
   <p><b>The Problem:</b> The company was over-paying an external agency for “low value” SEO tasks while internal technical debt continued to mount. Communication between the agency and the internal Dev team had completely broken down.</p> 
   <p><b>The Tech:</b> Jira/Asana Infrastructure, KPI Dashboarding (Looker Studio), Technical Debt Prioritization Framework (ICE Scoring), SEO-to-Dev Translation Documentation.</p>
   <a href="case-studies/content-strategy/stakeholder-management.html">View Strategy →</a>
+</div>
+
+<div class="download-container">
+   <p>Prefer to read offline?</p>
+   <a href="./assets/pdfs/strategy-case-studies.pdf" target="_blank" class="btn-view">View Strategy Pillar PDF</a></br>
+   <a href="./assets/pdfs/strategy-case-studies.pdf" download="Kristina_Lichtenwald_Strategy_SEO_Pillar" class="btn-save">
+      <i class="fas fa-download"></i> Save for Offline
+   </a>
 </div>
 
 <div style="margin: 40px 0; padding: 20px; background-color: #F8FAFC; border-left: 4px solid #2563EB; border-radius: 4px;">
