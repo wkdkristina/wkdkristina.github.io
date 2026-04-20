@@ -19,7 +19,7 @@ title: Case Studies
 
 <div class="download-container">
    <p>Prefer to read offline?</p>
-   <a href="./assets/pdfs/all-case-studies.pdf" target="_blank" class="btn-view">View the full 33-page case study PDF</a></br>
+   <a href="./assets/pdfs/all-case-studies.pdf" target="_blank" class="btn-view">View the full 33-page case study PDF</a><br>
    <a href="./assets/pdfs/all-case-studies.pdf" download="Kristina_Lichtenwald_All_Case_Studies" class="btn-save">
       <i class="fas fa-download"></i> Save for Offline
    </a>
@@ -50,7 +50,7 @@ title: Case Studies
 
 <div class="download-container">
    <p>Prefer to read offline?</p>
-   <a href="./assets/pdfs/technical-case-studies.pdf" target="_blank" class="btn-view">View Technical Pillar PDF</a></br>
+   <a href="./assets/pdfs/technical-case-studies.pdf" target="_blank" class="btn-view">View Technical Pillar PDF</a><br>
    <a href="./assets/pdfs/technical-case-studies.pdf" download="Kristina_Lichtenwald_Technical_SEO_Pillar" class="btn-save">
       <i class="fas fa-download"></i> Save for Offline
    </a>
@@ -87,7 +87,7 @@ title: Case Studies
 
 <div class="download-container">
    <p>Prefer to read offline?</p>
-   <a href="./assets/pdfs/data-analytics-case-studies.pdf" target="_blank" class="btn-view">View Data Analytics Pillar PDF</a></br>
+   <a href="./assets/pdfs/data-analytics-case-studies.pdf" target="_blank" class="btn-view">View Data Analytics Pillar PDF</a><br>
    <a href="./assets/pdfs/data-analytics-case-studies.pdf" download="Kristina_Lichtenwald_Data Analytics_SEO_Pillar" class="btn-save">
       <i class="fas fa-download"></i> Save for Offline
    </a>
@@ -124,7 +124,7 @@ title: Case Studies
 
 <div class="download-container">
    <p>Prefer to read offline?</p>
-   <a href="./assets/pdfs/strategy-case-studies.pdf" target="_blank" class="btn-view">View Strategy Pillar PDF</a></br>
+   <a href="./assets/pdfs/strategy-case-studies.pdf" target="_blank" class="btn-view">View Strategy Pillar PDF</a><br>
    <a href="./assets/pdfs/strategy-case-studies.pdf" download="Kristina_Lichtenwald_Strategy_SEO_Pillar" class="btn-save">
       <i class="fas fa-download"></i> Save for Offline
    </a>
