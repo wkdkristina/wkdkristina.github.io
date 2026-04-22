@@ -45,5 +45,6 @@ Established a custom dashboard to monitor the indexation rate of new product lau
     </a>
     <a href="/assets/pdfs/crawl-budget.pdf" download="Lichtenwald_Technical_SEO_Crawl_Budget" class="sticky-save-link">
         <i class="fas fa-download"></i>
+        <span class="sticky-text">Download PDF</span>
     </a>
 </div>
