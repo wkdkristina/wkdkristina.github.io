@@ -82,7 +82,7 @@ Post-resolution data confirmed an immediate 22% lift in lead volume, effectively
     </a>
     <a href="/assets/pdfs/leak-detection.pdf"
           class="sticky-btn-base sticky-download-gray"
-          download="Lichtenwald_Crawl_Budget_PoC">
+          download="Lichtenwald_Leak_Detection_PoC">
                <i class="fas fa-download"></i>
                <span class="sticky-label">Download</span>
      </a>

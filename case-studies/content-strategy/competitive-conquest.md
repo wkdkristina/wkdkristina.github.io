@@ -63,7 +63,7 @@ Once we secured the #1 spot, the "Moat" effect of the 20 spokes made it prohibit
     </a>
     <a href="/assets/pdfs/competitive-conquest.pdf"
           class="sticky-btn-base sticky-download-gray"
-          download="Lichtenwald_Crawl_Budget_PoC">
+          download="Lichtenwald_Competitive_Conquest_PoC">
                <i class="fas fa-download"></i>
                <span class="sticky-label">Download</span>
      </a>

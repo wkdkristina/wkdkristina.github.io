@@ -89,7 +89,7 @@ Based on these insights, I transitioned the SEO strategy from a "defensive" post
     </a>
     <a href="/assets/pdfs/multi-touch-attribution.pdf"
           class="sticky-btn-base sticky-download-gray"
-          download="Lichtenwald_Crawl_Budget_PoC">
+          download="Lichtenwald_Multi_Touch_Attribution_PoC">
                <i class="fas fa-download"></i>
                <span class="sticky-label">Download</span>
      </a>

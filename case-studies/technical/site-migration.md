@@ -84,7 +84,7 @@ By auditing the server-side execution, I eliminated multi-hop redirect chains, e
     </a>
     <a href="/assets/pdfs/site-migration.pdf"
           class="sticky-btn-base sticky-download-gray"
-          download="Lichtenwald_Crawl_Budget_PoC">
+          download="Lichtenwald_Site_Migration_PoC">
                <i class="fas fa-download"></i>
                <span class="sticky-label">Download</span>
      </a>

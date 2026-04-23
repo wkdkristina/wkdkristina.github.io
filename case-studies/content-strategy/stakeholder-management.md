@@ -61,7 +61,7 @@ By demonstrating a clear correlation between technical site health and revenue, 
     </a>
     <a href="/assets/pdfs/stakeholder-management.pdf"
           class="sticky-btn-base sticky-download-gray"
-          download="Lichtenwald_Crawl_Budget_PoC">
+          download="Lichtenwald_Stakeholder_Mgmt_PoC">
                <i class="fas fa-download"></i>
                <span class="sticky-label">Download</span>
      </a>

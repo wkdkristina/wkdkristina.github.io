@@ -93,7 +93,7 @@ By securing rich snippets through schema nesting, I transformed standard blue-li
     </a>
     <a href="/assets/pdfs/geo-schema.pdf"
           class="sticky-btn-base sticky-download-gray"
-          download="Lichtenwald_Crawl_Budget_PoC">
+          download="Lichtenwald_GEO_Schema_PoC">
                <i class="fas fa-download"></i>
                <span class="sticky-label">Download</span>
      </a>

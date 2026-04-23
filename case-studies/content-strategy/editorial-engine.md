@@ -64,7 +64,7 @@ style="width: 100%; height: auto; display: block; border-radius: 4px;">
     </a>
     <a href="/assets/pdfs/editorial-engine.pdf"
           class="sticky-btn-base sticky-download-gray"
-          download="Lichtenwald_Crawl_Budget_PoC">
+          download="Lichtenwald_Editorial_Engine_PoC">
                <i class="fas fa-download"></i>
                <span class="sticky-label">Download</span>
      </a>
